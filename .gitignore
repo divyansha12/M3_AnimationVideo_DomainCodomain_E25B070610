@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+media/
+marks.txt
+render_log.txt
+.DS_Store
